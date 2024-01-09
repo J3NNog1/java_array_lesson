@@ -3,7 +3,9 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
     //this array is not resizable
-    int [] myIntArray = new int[10];
+
+
+        int [] myIntArray = new int[10];
     myIntArray[0] = 45;
     myIntArray[1] = 1;
     myIntArray[5] = 50;
